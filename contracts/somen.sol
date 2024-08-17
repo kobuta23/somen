@@ -29,8 +29,8 @@ contract SoMenTake is ERC721{
         ) 
         // hardcoding to make testing faster
         ERC721(
-            unicode'"So麺の竹"',//_name,
-            unicode'"竹"'//_symbol
+            unicode'So麺の竹',//_name,
+            unicode'竹'//_symbol
             ) {
         somen = token; 
         owner = msg.sender; 

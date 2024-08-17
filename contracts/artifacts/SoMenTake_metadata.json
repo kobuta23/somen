@@ -778,11 +778,11 @@
 			]
 		},
 		"contracts/somen.sol": {
-			"keccak256": "0x12ff13043188bfc0913b39f2c3d04f72aee17da1b265ff7d59d00d3c154a0df8",
+			"keccak256": "0x6cff99fffb1eb99c845a274f4fdfd6b369f3127b871fb082a2f24355582a6541",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f42612a51e734c33294183028e986633447c985cecf8cd6b81e0628d920dd16c",
-				"dweb:/ipfs/QmZgwQmdE8dGWV6cX54JfCJnRV3rU3sEVuNYaQKHP5PGi7"
+				"bzz-raw://c36cf426ee66c5afecec22fb6ee73dac341bde68339f3f6c117fa112848068bb",
+				"dweb:/ipfs/QmYQDDWHFSBfcXeTwzpiMdMdz6zxFkSLjLFE9WZKQYL4rp"
 			]
 		}
 	},
